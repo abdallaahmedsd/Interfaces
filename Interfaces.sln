@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumerator", "CustomE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumeratorWithYield", "CustomEnumeratorWithYield\CustomEnumeratorWithYield.csproj", "{2587A214-74F6-4EC1-B8A7-AC67EA863A74}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneablePoint", "CloneablePoint\CloneablePoint.csproj", "{84804D67-AD7C-4FE9-85E7-02B34118C757}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84804D67-AD7C-4FE9-85E7-02B34118C757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84804D67-AD7C-4FE9-85E7-02B34118C757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84804D67-AD7C-4FE9-85E7-02B34118C757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84804D67-AD7C-4FE9-85E7-02B34118C757}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
