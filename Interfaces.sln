@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiInterfaceHierarchy", "MiI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumerator", "CustomEnumerator\CustomEnumerator.csproj", "{2442356D-2977-4D3B-AE5F-1DCC77EDC27E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumeratorWithYield", "CustomEnumeratorWithYield\CustomEnumeratorWithYield.csproj", "{2587A214-74F6-4EC1-B8A7-AC67EA863A74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2442356D-2977-4D3B-AE5F-1DCC77EDC27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2442356D-2977-4D3B-AE5F-1DCC77EDC27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2442356D-2977-4D3B-AE5F-1DCC77EDC27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2587A214-74F6-4EC1-B8A7-AC67EA863A74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
