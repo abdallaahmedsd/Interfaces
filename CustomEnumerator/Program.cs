@@ -13,9 +13,9 @@ foreach (Car c in carLot)
 }
 
 // Manually work with IEnumerator.
-IEnumerator carEnumerator = carLot.GetEnumerator();
-carEnumerator.MoveNext();
-Car myCar = (Car)i.Current;
-Console.WriteLine("{0} is going {1} MPH", myCar.PetName, myCar.CurrentSpeed);
+//IEnumerator carEnumerator = carLot.GetEnumerator();
+//carEnumerator.MoveNext();
+//Car myCar = (Car)i.Current;
+//Console.WriteLine("{0} is going {1} MPH", myCar.PetName, myCar.CurrentSpeed);
 
 Console.ReadLine();
